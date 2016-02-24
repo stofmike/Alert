@@ -1,3 +1,5 @@
+//Test to see update
+
 int alertMinute = -1;
 int alertHour = -1;
 int alertWeekDay[7] = {0,0,0,0,0,0,0};
